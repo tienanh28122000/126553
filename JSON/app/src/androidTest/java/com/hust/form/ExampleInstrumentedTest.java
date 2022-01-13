@@ -1,4 +1,4 @@
-package com.hust.windowscalculator;
+package com.hust.form;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.hust.windowscalculator", appContext.getPackageName());
+        assertEquals("com.hust.form", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.hust.windowscalculator;
+package com.hust.form;
 
 import org.junit.Test;
 
